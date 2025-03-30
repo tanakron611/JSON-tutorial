@@ -13,6 +13,4 @@ async function getDataFromAPI(){
    list.innerHTML = output;
 
 }
-getDataFromAPI() // ดึงข้อมูลจาก api
-// ดึงข้อมูลจาก link api ไปแสดงผล
-console.log('Hello world')
+getDataFromAPI() 
